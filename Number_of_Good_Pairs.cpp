@@ -1,4 +1,4 @@
-3 october 2023
+/*3 october 2023
 Given an array of integers nums, return the number of good pairs.
 
 A pair (i, j) is called good if nums[i] == nums[j] and i < j.
@@ -30,7 +30,7 @@ Complexity
 Time complexity:
 O(N)
 Space complexity:
-O(1)
+O(1)*/
 
 
 class Solution {
